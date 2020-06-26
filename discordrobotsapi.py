@@ -4,7 +4,7 @@ import requests
 '''
 API for DiscordRobots Bot List
 Python 3.7
-Author: <Author>
+Author: Ari24, MauricePascal
 '''
 
 BASE_URL = "https://discordrobots-api.000webhostapp.com/"
