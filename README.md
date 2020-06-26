@@ -25,9 +25,9 @@ $ python3 -m pip install discordrobotsapi
 
 
 ### Some useful links
-DiscordRobots: https://www.keksstudios.tk/discordrobots
-DiscordRobotsAPI on Github: https://github.com/MauricePascal/drpy
-DiscordRobotsAPI for Python on Github: https://github.com/MauricePascal/drpy/tree/master/discordrobotsapi
+	- DiscordRobots: https://www.keksstudios.tk/discordrobots
+	- DiscordRobotsAPI on Github: https://github.com/MauricePascal/drpy
+	- DiscordRobotsAPI for Python on Github: https://github.com/MauricePascal/drpy/tree/master/discordrobotsapi
 
 
 ### License
