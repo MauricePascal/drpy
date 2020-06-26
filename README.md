@@ -55,13 +55,13 @@ If you run this and nothing is printed in your console then everything is fine!
 
 
 ### Some useful links
-	DiscordRobots: https://www.keksstudios.tk/discordrobots
-	DiscordRobotsAPI on Github: https://github.com/MauricePascal/drpy
-	DiscordRobotsAPI for Python on Github: https://github.com/MauricePascal/drpy/tree/master/discordrobotsapi
+[DiscordRobots](https://www.keksstudios.tk/discordrobots)
+[DiscordRobotsAPI on Github](https://github.com/MauricePascal/drpy)
+[DiscordRobotsAPI for Python on Github](https://github.com/MauricePascal/drpy/tree/master/discordrobotsapi)
 
 
 
 ### License
-Unlicense
+[MIT](https://choosealicense.com/licenses/mit/)
 
 *Project powered by keksstudios*
