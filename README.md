@@ -1,35 +1,36 @@
-# drpy
-This is the official DiscordRobotsAPI for discord.py. You can work with votes a so many more
+# DiscordRobotsAPI - Python
 
-# Overview
-* [Setup](https://github.com/MauricePascal/drpy/blob/master/README.md#creating-the-discordrobotsapi-object)
-* [Votes](https://github.com/MauricePascal/drpy/blob/master/README.md#votes)
-* [Download](https://github.com/MauricePascal/drpy/blob/master/README.md#download)
-* [Support](https://github.com/MauricePascal/drpy/blob/master/README.md#support)
+DiscordRobotsAPI - Python is the official Python API for DiscordRobots.
+Simply it's based on requests but this API makes it easier to use and handle these requests!
 
-## Creating the DiscordRobotsAPI Object
-This is the setup for your Bot. Replace "token" with the DiscordRobots Token of your Bot
- 
-```java
-    DiscordRobotsAPI drAPI = new DiscordRobotsAPI.Builder()
-        .setToken(token)
-        .build();
+
+## New Features!
+	
+	- V0.3: Added Custom Exceptions
+	- V0.2: Fixed Base URL Bugs
+	- V0.1: Added a class and refactor the code
+	
+
+## Installation
+
+DiscordRobotsAPI for Python needs the following packages installed:
+	- Json (already in Python3.7)
+	- Requests (already in Python3.7)
+
+To install DiscordRobotsAPI for Python itself you should use pip:
+
+```sh
+$ python3 -m pip install discordrobotsapi
 ```
 
-## Votes
-Work with votes
 
-```java
-    String userId = [...] //User ID
-    if(Votes.isVoted(userId)) {
-        [...]
-    }
-```
+### Some useful links
+DiscordRobots: https://www.keksstudios.tk/discordrobots
+DiscordRobotsAPI on Github: https://github.com/MauricePascal/drpy
+DiscordRobotsAPI for Python on Github: https://github.com/MauricePascal/drpy/tree/master/discordrobotsapi
 
-## Download
-The API is currently not available for download
 
-## Support
-* [Discord-Server](https://discord.gg/ExCrcDX)
-* [Website](https://www.keksstudios.tk/discordrobots)
-* [Documentation](#)
+### License
+Unlicense
+
+*Project powered by keksstudios*
