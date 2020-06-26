@@ -38,11 +38,11 @@ $ pip install discordrobotsapi
 So, first of all, you need to import and create an discordrobotsapi object to use all functions!
 
 ```py
-from discordrobotsapi import discordrobotsapi
+from discordrobotsapi.discordrobotsapi import DiscordRobots
 
 TOKEN = "The Bot Token that your Bot currently has"
 
-api = discordrobotsapi.DiscordRobots(TOKEN)
+api = DiscordRobots(TOKEN)
 api.connect()
 ```
 
@@ -52,6 +52,7 @@ If you run this and nothing is printed in your console then everything is fine!
 
 ### Todo:
 	- Parse the bot token directly into api.connect
+	- Change directory and filename of api to make these imports easier
 
 
 
