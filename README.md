@@ -11,6 +11,7 @@ Simply it's based on requests but this API makes it easier to use and handle the
 	- V0.1: Added a class and refactor the code
 	
 
+
 ## Installation
 
 DiscordRobotsAPI for Python needs the following packages installed:
@@ -30,6 +31,7 @@ $ pip install discordrobotsapi
 ```
 
 
+
 ## Getting Started
 
 So, first of all, you need to import and create an discordrobotsapi object to use all functions!
@@ -46,10 +48,12 @@ api.connect()
 If you run this and nothing is printed in your console than everything is fine!
 
 
+
 ### Some useful links
 	DiscordRobots: https://www.keksstudios.tk/discordrobots
 	DiscordRobotsAPI on Github: https://github.com/MauricePascal/drpy
 	DiscordRobotsAPI for Python on Github: https://github.com/MauricePascal/drpy/tree/master/discordrobotsapi
+
 
 
 ### License
