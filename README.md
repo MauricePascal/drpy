@@ -23,6 +23,27 @@ To install DiscordRobotsAPI for Python itself you should use pip:
 $ python3 -m pip install discordrobotsapi
 ```
 
+or 
+
+```sh
+$ pip install discordrobotsapi
+```
+
+
+## Getting Started
+
+So, first of all, you need to import and create an discordrobotsapi object to use all functions!
+
+```py
+from discordrobotsapi import discordrobotsapi
+
+TOKEN = "The Bot Token that your Bot currently has"
+
+api = discordrobotsapi.DiscordRobots(TOKEN)
+api.connect()```
+
+If you run this and nothing is printed in your console than everything is fine!
+
 
 ### Some useful links
 	DiscordRobots: https://www.keksstudios.tk/discordrobots
