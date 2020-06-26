@@ -14,10 +14,11 @@ Simply it's based on requests but this API makes it easier to use and handle the
 
 ## Installation
 
-DiscordRobotsAPI for Python needs the following packages installed:
-	- Json (already in Python3.7)
-	- Requests (already in Python3.7)
-
+DiscordRobotsAPI for Python needs the following packages installed:  
+	- Json (already in Python3.7)  
+	- Requests (already in Python3.7)  
+	- Logging (already in Python3.7)  
+  
 To install DiscordRobotsAPI for Python itself you should use pip:
 
 ```sh
