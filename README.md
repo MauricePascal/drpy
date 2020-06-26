@@ -64,4 +64,4 @@ If you run this and nothing is printed in your console then everything is fine!
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-*Project powered by keksstudios*
+*Project powered by KeksStudios.tk*
