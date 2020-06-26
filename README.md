@@ -5,7 +5,7 @@ Simply it's based on requests but this API makes it easier to use and handle the
 
 
 ## New Features!
-	
+	- V0.3.1: Added logging and changed print statements to logging statements
 	- V0.3: Added Custom Exceptions
 	- V0.2: Fixed Base URL Bugs
 	- V0.1: Added a class and refactor the code
@@ -46,6 +46,11 @@ api.connect()
 ```
 
 If you run this and nothing is printed in your console then everything is fine!
+
+
+
+### Todo:
+	- Parse the bot token directly into api.connect
 
 
 
