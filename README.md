@@ -45,7 +45,7 @@ api = discordrobotsapi.DiscordRobots(TOKEN)
 api.connect()
 ```
 
-If you run this and nothing is printed in your console than everything is fine!
+If you run this and nothing is printed in your console then everything is fine!
 
 
 
