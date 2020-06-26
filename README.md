@@ -53,17 +53,17 @@ If you run this and nothing is printed in your console then everything is fine!
 ### Todo:
 	- Parse the bot token directly into api.connect
 	- Change directory and filename of api to make these imports easier
-
-
-
+  
+  
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+  
+  
+  
 ### Some useful links
 [DiscordRobots](https://www.keksstudios.tk/discordrobots)  
 [DiscordRobotsAPI on Github](https://github.com/MauricePascal/drpy)  
 [DiscordRobotsAPI for Python on Github](https://github.com/MauricePascal/drpy/tree/master/discordrobotsapi)  
-
-
-
-### License
-[MIT](https://choosealicense.com/licenses/mit/)
-
+  
+  
 *Project powered by KeksStudios.tk*
