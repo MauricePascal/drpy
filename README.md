@@ -40,7 +40,8 @@ from discordrobotsapi import discordrobotsapi
 TOKEN = "The Bot Token that your Bot currently has"
 
 api = discordrobotsapi.DiscordRobots(TOKEN)
-api.connect()```
+api.connect()
+```
 
 If you run this and nothing is printed in your console than everything is fine!
 
