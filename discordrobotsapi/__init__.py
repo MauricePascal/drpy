@@ -1,1 +1,1 @@
-from discordrobotsapi import DiscordRobots
+from drpy import DiscordRobots

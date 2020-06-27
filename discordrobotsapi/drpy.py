@@ -90,7 +90,3 @@ class DiscordRobots:
             voted = json.dumps(data["isVoted"], indent=4)
             logging.info("Successfully gathered information about User having already voted!")
             return voted == "true"
-
-
-a = DiscordRobots()
-a.connect("7a3j3x5d7x5o7y2w4x0j1x8q3u2p1v4g2e1g6j0u6c5s6c0a0r0e0l2g3m6h5r4j8w2u2g5x4w1i3y5u8y6d4u6z8m7p2z4m6y1t")
