@@ -5,6 +5,8 @@ Simply it's based on requests but this API makes it easier to use and handle the
 
 
 ## New Features!
+	- V.0.4.1: Changed name from discordrobotsapi.py to drpy.py to make imports easier
+	- V.0.4: Token must be directly parsed into api#connect()
 	- V0.3.1: Added logging and changed print statements to logging statements
 	- V0.3: Added Custom Exceptions
 	- V0.2: Fixed Base URL Bugs
@@ -38,12 +40,12 @@ $ pip install discordrobotsapi
 So, first of all, you need to import and create an discordrobotsapi object to use all functions!
 
 ```py
-from discordrobotsapi.discordrobotsapi import DiscordRobots
+from discordrobotsapi.drpy import DiscordRobots
 
 TOKEN = "The Bot Token that your Bot currently has"
 
-api = DiscordRobots(TOKEN)
-api.connect()
+api = DiscordRobots()
+api.connect(TOKEN)
 ```
 
 If you run this and nothing is printed in your console then everything is fine!
@@ -51,8 +53,7 @@ If you run this and nothing is printed in your console then everything is fine!
 
 
 ### Todo:
-* Parse the bot token directly into api.connect
-* Change directory and filename of api to make these imports easier
+	- Currently no ToDos
   
   
 ## License
