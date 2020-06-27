@@ -51,8 +51,8 @@ If you run this and nothing is printed in your console then everything is fine!
 
 
 ### Todo:
-	- Parse the bot token directly into api.connect
-	- Change directory and filename of api to make these imports easier
+* Parse the bot token directly into api.connect
+* Change directory and filename of api to make these imports easier
   
   
 ## License
