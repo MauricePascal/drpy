@@ -48,6 +48,14 @@ api = DiscordRobots()
 api.connect(TOKEN)
 ```
 
+### Votes
+```py
+if api.has_voted(userId):
+	print("User has voted")
+else:
+	print("User must vote")
+```
+
 If you run this and nothing is printed in your console then everything is fine!
 
 
