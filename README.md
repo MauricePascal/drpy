@@ -37,6 +37,8 @@ $ pip install discordrobotsapi
 
 ## Getting Started
 
+### Setup
+
 So, first of all, you need to import and create an discordrobotsapi object to use all functions!
 
 ```py
