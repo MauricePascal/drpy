@@ -4,7 +4,7 @@ DiscordRobotsAPI - Python is the official Python API for DiscordRobots.
 Simply it's based on requests but this API makes it easier to use and handle these requests!
 
 
-## Changelog!
+## Changelog
 	- V0.4.2: Removed the old discordrobotsapi.py file
 	- V0.4.1: Changed name from discordrobotsapi.py to drpy.py to make imports easier
 	- V0.4: Token must be directly parsed into api#connect()
