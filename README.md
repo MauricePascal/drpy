@@ -43,7 +43,7 @@ So, first of all, you need to import and create an discordrobotsapi object to us
 ```py
 from discordrobotsapi.drpy import DiscordRobots
 
-TOKEN = "The Bot Token that your Bot currently has"
+TOKEN = "Discord Robots API Token"
 
 api = DiscordRobots()
 api.connect(TOKEN)
