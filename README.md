@@ -5,8 +5,9 @@ Simply it's based on requests but this API makes it easier to use and handle the
 
 
 ## New Features!
-	- V.0.4.1: Changed name from discordrobotsapi.py to drpy.py to make imports easier
-	- V.0.4: Token must be directly parsed into api#connect()
+	- V0.4.2: Removed the old discordrobotsapi.py file
+	- V0.4.1: Changed name from discordrobotsapi.py to drpy.py to make imports easier
+	- V0.4: Token must be directly parsed into api#connect()
 	- V0.3.1: Added logging and changed print statements to logging statements
 	- V0.3: Added Custom Exceptions
 	- V0.2: Fixed Base URL Bugs
@@ -37,8 +38,6 @@ $ pip install discordrobotsapi
 
 ## Getting Started
 
-### Setup
-
 So, first of all, you need to import and create an discordrobotsapi object to use all functions!
 
 ```py
@@ -48,14 +47,6 @@ TOKEN = "The Bot Token that your Bot currently has"
 
 api = DiscordRobots()
 api.connect(TOKEN)
-```
-
-### Votes
-```py
-if api.has_voted(userId):
-	print("User has voted")
-else:
-	print("User must vote")
 ```
 
 If you run this and nothing is printed in your console then everything is fine!
