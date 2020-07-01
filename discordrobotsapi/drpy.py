@@ -90,3 +90,4 @@ class DiscordRobots:
             voted = json.dumps(data["isVoted"], indent=4)
             logging.info("Successfully gathered information about User having already voted!")
             return voted == "true"
+ 
