@@ -52,6 +52,8 @@ api.connect(TOKEN)
 
 If you run this and nothing is printed in your console then everything is fine!
 
+For more details, see [here](https://github.com/MauricePascal/drpy/wiki)!
+
 
 
 ### Todo:
