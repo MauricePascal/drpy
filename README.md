@@ -43,7 +43,7 @@ So, first of all, you need to import and create an discordrobotsapi object to us
 ```py
 from discordrobotsapi.drpy import DiscordRobots
 
-TOKEN = "Discord Robots API Token"
+TOKEN = "The Bot Token that your Bot currently has"
 
 api = DiscordRobots()
 api.connect(TOKEN)
@@ -54,7 +54,7 @@ If you run this and nothing is printed in your console then everything is fine!
 
 
 ### Todo:
-	- Currently no ToDos
+	- revise logging system (for logging into files etc.)
   
   
 ## License
