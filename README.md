@@ -5,6 +5,7 @@ Simply it's based on requests but this API makes it easier to use and handle the
 
 
 ## Changelog
+	- V0.4.3: Revised logging with new keywords (see documentation) and fixed some stupid bugs
 	- V0.4.2: Removed the old discordrobotsapi.py file
 	- V0.4.1: Changed name from discordrobotsapi.py to drpy.py to make imports easier
 	- V0.4: Token must be directly parsed into api#connect()
@@ -54,9 +55,7 @@ If you run this and nothing is printed in your console then everything is fine!
 
 
 ### Todo:
-	- revise logging system (for logging into files etc.)
-	- fix a bug in DiscordRobotsAPI.connect where the base url stacks up if you try to use that function again
-  
+	- currently no todos
   
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
