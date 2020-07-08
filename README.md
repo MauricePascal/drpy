@@ -55,6 +55,7 @@ If you run this and nothing is printed in your console then everything is fine!
 
 ### Todo:
 	- revise logging system (for logging into files etc.)
+	- fix a bug in DiscordRobotsAPI.connect where the base url stacks up if you try to use that function again
   
   
 ## License
@@ -64,9 +65,9 @@ If you run this and nothing is printed in your console then everything is fine!
   
 ### Some useful links
 [DiscordRobots](https://www.keksstudios.tk/discordrobots)  
-[DiscordRobotsAPI on Github](https://github.com/MauricePascal/drpy)  
+[DiscordRobotsAPI on Github](https://github.com/MauricePascal/drApi)  
 [DiscordRobotsAPI for Python on Github](https://github.com/MauricePascal/drpy/tree/master/discordrobotsapi)  
-[PyPi site](https://pypi.org/project/discordrobotsapi/)
+[DiscordRobotsAPI for Python PyPi site](https://pypi.org/project/discordrobotsapi/)
   
   
 *Project powered by KeksStudios.tk*
