@@ -5,7 +5,7 @@ Simply it's based on requests but this API makes it easier to use and handle the
 
 
 ## Changelog
-	- V0.5: Added send_stats, get_stats and get_details, custom exception file, details object for get_details, improved logging and added better error outputs to the user
+	- V0.5: Added send_stats, get_stats and get_details, custom exception file, details object for get_details, improved logging and added better error outputs to the user. Also improved the wiki
 	- V0.4.3: Revised logging with new keywords (see documentation) and fixed some stupid bugs
 	- V0.4.2: Removed the old discordrobotsapi.py file
 	- V0.4.1: Changed name from discordrobotsapi.py to drpy.py to make imports easier
