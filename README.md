@@ -59,6 +59,7 @@ For more details, see [here](https://github.com/MauricePascal/drpy/wiki)!
 
 ### Todo:
 	- add doc-strings to error class
+	- CHANGE "INFORMATION'S" TO INFORMATION REEEEEEE
   
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
