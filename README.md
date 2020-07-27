@@ -1,3 +1,5 @@
+# NOTE: THIS PROJECT IS DELETED
+
 # DiscordRobotsAPI - Python
 
 DiscordRobotsAPI - Python is the official Python API for DiscordRobots.
